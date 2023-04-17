@@ -2,8 +2,8 @@
 
 # UnrealCSharp
 
-![pr](https://img.shields.io/github/issues-pr/crazytuzi/UnrealCSharp)
-![issuses](https://img.shields.io/github/issues/crazytuzi/UnrealCSharp)
+![pr](https://img.shields.io/github/issues-pr-closed/crazytuzi/UnrealCSharp)
+![issuses](https://img.shields.io/github/issues-closed/crazytuzi/UnrealCSharp)
 
 
 # 目录
