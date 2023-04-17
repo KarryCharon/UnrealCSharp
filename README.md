@@ -480,7 +480,7 @@
 
 
 ## RecentActivity
-[![Time period](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_badge.svg)](https://repography.com)
+
 [![Timeline graph](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_timeline.svg)](https://github.com/KarryCharon/UnrealCSharp/commits)
 [![Issue status graph](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_issues.svg)](https://github.com/KarryCharon/UnrealCSharp/issues)
 [![Pull request status graph](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_prs.svg)](https://github.com/KarryCharon/UnrealCSharp/pulls)
