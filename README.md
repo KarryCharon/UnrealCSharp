@@ -63,19 +63,19 @@
 
    ```text
    ProjectDirectory
-   	Binaries
-   	Content
-   	Plugins
-   		UnrealCSharp
-   			Content
-   			Resources
-   			Source
-   			...
-   			UnrealCSharp.uplugin
-   	Saved
-   	Source
-   	ProjectName.uproject
-   	....
+       Binaries
+       Content
+       Plugins
+           UnrealCSharp
+               Content
+               Resources
+               Source
+               ...
+               UnrealCSharp.uplugin
+       Saved
+       Source
+       ProjectName.uproject
+       ...
    ```
 
 4. 首先右键点击工程文件选择生成VisualStudio项目, 会生成ProjectName.sln 解决方案
