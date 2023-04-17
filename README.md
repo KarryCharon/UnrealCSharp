@@ -1,32 +1,38 @@
-# UnrealCSharp使用说明
+# UnrealCSharp
+
+<!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
-
 [![Forks][forks-shield]][forks-url]
-
 [![Stargazers][stars-shield]][stars-url]
-
 [![Issues][issues-shield]][issues-url]
-
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 # 目录
 
-- [简介](#简介)
-- [作为使用者](#作为使用者)
-  - [预备工作](#预备工作)
-  - [安装](#安装)
-  - [基本使用](#基本使用)
-  - [例子](#例子)
-  - [静态导出](#静态导出)
-  - [Debug](#Debug)
-- [作为开发者](#作为开发者)
-  - [目录结构](#目录结构)
-  - [框架说明](#框架说明)
-- [FAQ](#FAQ)
-- [Misc](##Misc)
-- [ChangeLog](##ChangeLog)
-- [Contributor](##Contributor)
+- [UnrealCSharp](#unrealcsharp)
+- [目录](#目录)
+  - [简介](#简介)
+  - [作为使用者](#作为使用者)
+    - [基本使用预备工作](#基本使用预备工作)
+    - [安装](#安装)
+    - [基本使用](#基本使用)
+    - [例子](#例子)
+    - [Debug静态导出](#debug静态导出)
+    - [Debug](#debug)
+      - [PIE调试](#pie调试)
+      - [真机调试](#真机调试)
+  - [作为开发者](#作为开发者)
+    - [目录结构](#目录结构)
+    - [框架说明](#框架说明)
+  - [FAQ](#faq)
+  - [Misc](#misc)
+    - [Bench](#bench)
+  - [ChangeLog](#changelog)
+  - [RecentActivity](#recentactivity)
+  - [Contributor](#contributor)
 
 ## 简介
 
@@ -86,7 +92,7 @@
 
    1. 在 Map视图下 点击顶部 窗口 > UnrealCSharpEditor 导出cs脚本
 
-      ![Export-Cs](./attachments/US-Export-Cs.png)
+      ![Export-Cs](./images/US-Export-Cs.png)
 
    2. 导出前注意事项
 
@@ -450,7 +456,7 @@
 
    1. 添加Rider Debug配置
 
-      ![Export-Cs](./attachments/US-Rider-Debug-Config.png)
+      ![Export-Cs](./images/US-Rider-Debug-Config.png)
 
    2. 先启动Rider的RemoteUE配置
 
@@ -477,13 +483,13 @@
 ## ChangeLog
 
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_badge.svg)](https://repography.com)
+## RecentActivity
+
+[![Time period](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_badge.svg)](https://repography.com)
 [![Timeline graph](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_timeline.svg)](https://github.com/KarryCharon/UnrealCSharp/commits)
 [![Issue status graph](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_issues.svg)](https://github.com/KarryCharon/UnrealCSharp/issues)
 [![Pull request status graph](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_prs.svg)](https://github.com/KarryCharon/UnrealCSharp/pulls)
 [![Trending topics](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_words.svg)](https://github.com/KarryCharon/UnrealCSharp/commits)
-[![Top contributors](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_users.svg)](https://github.com/KarryCharon/UnrealCSharp/graphs/contributors)
-[![Activity map](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/recent-activity/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_map.svg)](https://github.com/KarryCharon/UnrealCSharp/commits)
 
 
 ## Contributor
@@ -491,9 +497,3 @@
 <a href="https://github.com/crazytuzi/UnrealCSharp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=crazytuzi/UnrealCSharp" />
 </a>
-
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
-[![Top contributors](https://images.repography.com/36525470/KarryCharon/UnrealCSharp/top-contributors/gDz1UIxOjIQ_UJ8AECDB6FFVrmvm7nRN-2plBKJB--g/pATYBux3QUiKzgioC3B8KrlJiByLeToJh98w4ozku9M_table.svg)](https://github.com/KarryCharon/UnrealCSharp/graphs/contributors)
-
-
